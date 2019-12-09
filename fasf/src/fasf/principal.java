@@ -32,7 +32,11 @@ public class principal {
 
 		//EjerciciosRepaso.ejer4();
 		//EjerciciosRepaso.ejer5();
-		EjerciciosRepaso.ejer6();
+		//EjerciciosRepaso.ejer6();
+		//EjerciciosRepaso.ejer7();
+		EjerciciosRepaso.ejer8();
+		EjerciciosRepaso.ejer9();
+		EjerciciosRepaso.ejer10();
 	}
 
 }
